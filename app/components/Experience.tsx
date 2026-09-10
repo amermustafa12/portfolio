@@ -8,10 +8,9 @@ export default function Experience() {
       company: "BluLogix",
       date: "2026",
       description: [
-        "Developed responsive web interfaces using React and TypeScript.",
-        "Integrated REST APIs into web applications.",
-        "Built reusable UI components.",
-        "Worked with Git and modern frontend development workflows.",
+        "Completed a structured web development internship program focusing on semantic HTML, CSS layout techniques, asynchronous JavaScript, and REST web services.",
+        "Built responsive web interfaces and integrated RESTful APIs to fetch and display dynamic data seamlessly.",
+        "Applied algorithms and problem-solving skills to optimize page interactions and component rendering.",
       ],
     },
   ];
